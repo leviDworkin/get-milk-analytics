@@ -4,3 +4,7 @@ ExpressJS app that loads data from csv files and then has two endpoints for gett
 # How to run
 yarn<br>
 yarn dev
+
+# Endpoints on localhost:3000
+/train<br>
+/prior
